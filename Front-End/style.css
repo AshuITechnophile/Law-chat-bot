@@ -9,3 +9,12 @@ div{
     height: 50px; 
     text-align: left;
 }
+li{
+    display: inline-block;
+    margin-right: 20px;
+}
+ul{
+    text-align: right;
+}
+
+
